@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "5ff32aadea530000230059d8"
+  },
+  "author_id": {
+    "$oid": "5ff325d0ea530000230059d7"
+  },
+  "post": "An array containing index specification documents. Each document contains field and value pairs where the field is the index key and the value describes the type of index for that field. For an ascending index on a field, specify a value of 1; for descending index, specify a value of -1.",
+  "time": "2021-01-04 20:18:13",
+  "post_status": 1
+},{
+  "_id": {
+    "$oid": "5ff32ad7ea530000230059d9"
+  },
+  "author_id": {
+    "$oid": "5ff325d0ea530000230059d7"
+  },
+  "post": "Optional. The minimum number of data-bearing voting replica set members (i.e. commit quorum), including the primary, that must report a successful index build before the primary marks the indexes as ready. A “voting” member is any replica set member where members[n].votes is greater than 0.",
+  "time": "2021-01-04 20:18:55",
+  "post_status": 1
+},{
+  "_id": {
+    "$oid": "5ff32cfcea530000230059ea"
+  },
+  "author_id": {
+    "$oid": "5ff32c9bea530000230059e6"
+  },
+  "post": "MongoDB directs reads and writes covered by a zone only to those shards inside the zone. See the Zones manual page for more information.",
+  "time": "2021-01-04 20:28:04",
+  "post_status": 1
+},{
+  "_id": {
+    "$oid": "5ff32d10ea530000230059eb"
+  },
+  "author_id": {
+    "$oid": "5ff32c9bea530000230059e6"
+  },
+  "post": "In addition, MongoDB provides pluggable storage engine API that allows third parties to develop storage engines for MongoDB.",
+  "time": "2021-01-04 20:28:24",
+  "post_status": 1
+},{
+  "_id": {
+    "$oid": "5ff32d87ea530000230059ec"
+  },
+  "author_id": {
+    "$oid": "5ff32c9bea530000230059e6"
+  },
+  "post": "this one is just a post taggin @nitish and the @admin to test this post.",
+  "time": "2021-01-04 20:30:23",
+  "post_status": 1
+},{
+  "_id": {
+    "$oid": "5ff32f20ea530000230059ef"
+  },
+  "author_id": {
+    "$oid": "5ff32c4aea530000230059e3"
+  },
+  "post": "You can find more about MDC at https://getmdl.io/started/index.html",
+  "time": "2021-01-04 20:37:12",
+  "post_status": 1
+},{
+  "_id": {
+    "$oid": "5ff32fe4ea530000230059f0"
+  },
+  "author_id": {
+    "$oid": "5ff32b69ea530000230059de"
+  },
+  "post": "@mohan, @jerry and @vivek : You'll find below a couple of examples of MDL Button elements: a Button with ripples and a FAB Button.",
+  "time": "2021-01-04 20:40:28",
+  "post_status": 1
+}]
